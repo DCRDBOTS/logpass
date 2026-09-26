@@ -1,0 +1,22 @@
+{
+  "name": "logpass-discord-bot",
+  "version": "2.0.0",
+  "description": "LogPass — all-in-one Discord moderation + fun bot with a web dashboard, in a single file for Vercel",
+  "main": "api/index.js",
+  "scripts": {
+    "start": "node api/index.js"
+  },
+  "engines": {
+    "node": ">=20.0.0"
+  },
+  "dependencies": {
+    "express": "^4.21.2"
+  },
+  "keywords": [
+    "discord",
+    "bot",
+    "moderation",
+    "logpass"
+  ],
+  "license": "MIT"
+}
